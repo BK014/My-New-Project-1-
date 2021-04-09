@@ -15,6 +15,8 @@ namespace My_New_Project_1_
         [STAThread]
         static void Main()
         {
+
+
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
